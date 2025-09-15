@@ -11,3 +11,6 @@ http://het102a.4rouwanda-shop.store/live/10011244/index.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=300000,RESOLUTION=426x240,CODECS="avc1.42e01e,mp4a.40.2",FRAME-RATE=25
 http://het102a.4rouwanda-shop.store/live/4798998070/index.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=150000,RESOLUTION=256x144,CODECS="avc1.42e01e,mp4a.40.2",FRAME-RATE=25
+http://splus.smartres.net/live/65787/54353/87826.m3u8
